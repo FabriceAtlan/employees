@@ -1,0 +1,17 @@
+.figure-container {
+	display: grid;
+	grid-template-columns: 1;
+	grid-template-rows: 1;
+	justify-content: center;
+	margin: 0;
+	padding: 1rem;
+	width: 350px;
+	height: 450px;
+	border-radius: 16px;
+	color: inherit;
+	background-color: #574082;
+}
+.figure-img {
+	width: 100%;
+	height: auto;
+}
